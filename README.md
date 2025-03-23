@@ -1,4 +1,4 @@
-## Hi there 👋
+## Data Science and Economics Student @ UC Berkeley 
 
 <!--
 **danielochoaa/danielochoaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
